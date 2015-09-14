@@ -1,0 +1,28 @@
+{
+  "name": "currentcms-example-gallery",
+  "version": "0.0.0",
+  "description": "A sample site for an art gallery with exhibitions.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/posttool/currentcms-example-gallery"
+  },
+  "keywords": [
+    "cms",
+    "gallery",
+    "site"
+  ],
+  "author": "David Karam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/posttool/currentcms-example-gallery/issues"
+  },
+  "homepage": "https://github.com/posttool/currentcms-example-gallery",
+  "dependencies": {
+    "currentcms": "0.0.4",
+    "mongoose": "3.8.7",
+    "express": "^4.13.3",
+    "body-parser": "^1.13.3",
+    "express-session": "^1.11.3"
+  }
+}
